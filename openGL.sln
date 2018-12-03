@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openGL", "openGL\openGL.vcxproj", "{6B532FD8-B23A-4FB2-B459-14761FD4A515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Debug|x64.ActiveCfg = Debug|x64
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Debug|x64.Build.0 = Debug|x64
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Debug|x86.Build.0 = Debug|Win32
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Release|x64.ActiveCfg = Release|x64
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Release|x64.Build.0 = Release|x64
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Release|x86.ActiveCfg = Release|Win32
+		{6B532FD8-B23A-4FB2-B459-14761FD4A515}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39863D0A-136F-422F-93C5-3B0FA9290C01}
+	EndGlobalSection
+EndGlobal
