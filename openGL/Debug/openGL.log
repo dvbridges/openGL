@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\david\source\repos\opengl\opengl\main.cpp(149): warning C4715: 'testWindowCreation': not all control paths return a value
-c:\users\david\source\repos\opengl\opengl\main.cpp(160): warning C4715: 'initGLAD': not all control paths return a value
+c:\users\david\source\repos\opengl\opengl\main.cpp(101): warning C4715: 'testWindowCreation': not all control paths return a value
+c:\users\david\source\repos\opengl\opengl\main.cpp(112): warning C4715: 'initGLAD': not all control paths return a value
   openGL.vcxproj -> C:\Users\david\source\repos\openGL\Debug\openGL.exe
